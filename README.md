@@ -4,5 +4,5 @@ An intro to Open ID Connect and IdentityServer
 
 ```
 {
-  "sub": "username"
+  "sub": "newbie"
 }```
